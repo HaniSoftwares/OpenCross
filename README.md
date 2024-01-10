@@ -2,6 +2,8 @@
 
 a open source implementattion of stronghold game
 
+to get started go to releases and download the package
+
 # Technologies Used
 GameMaker Studio 2.2 (only works with this version and might not work with newer ones)
 
