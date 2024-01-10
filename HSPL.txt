@@ -1,0 +1,24 @@
+**HaniSoftwares Public License (HSPL) - Version 1.0**
+
+**Preamble:**
+
+The HaniSoftwares Public License (HSPL) is a permissive open-source software license, designed to encourage the use, modification, and distribution of software developed by HaniSoftwares. The goal of this license is to strike a balance between providing freedom for users and ensuring that credit is given to the original developers.
+
+**Terms and Conditions:**
+
+1. **Attribution Requirement:**
+   - Users of the software are required to give appropriate credit to HaniSoftwares, the original developers, in any documentation, advertising material, or other forms of attribution that accompany the redistributed or modified software.
+
+2. **Inclusion of License:**
+   - When redistributing or making modifications to the software, the user must include a verbatim copy of this license (HSPL) with the redistributed or modified software. This ensures that recipients are aware of the terms and conditions under which they are granted the right to use, modify, and distribute the software.
+
+3. **Share Alike (Source Code):**
+   - If a user chooses to distribute the modified software in source code format, they must do so under the same HaniSoftwares Public License (HSPL) terms and conditions. This ensures that any derivative work or modification retains the same level of openness and permissiveness as the original software.
+
+**Disclaimer:**
+
+THIS SOFTWARE IS PROVIDED BY HANISOFTWARES "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, ARE DISCLAIMED. IN NO EVENT SHALL HANISOFTWARES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+**End of Terms and Conditions**
+
+This license is based on the principles of the BSD 3-Clause License but includes specific conditions outlined by HaniSoftwares. It is intended to promote the use and dissemination of software while requiring users to acknowledge and respect the original work and share derivative works under similar terms.
